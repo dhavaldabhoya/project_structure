@@ -42,4 +42,3 @@ class MyApp extends StatelessWidget {
       home: SplashScreen(),
     );
   }}
-//https://www.codester.com/categories/319/flutter-ui-kits?p=1
