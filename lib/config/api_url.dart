@@ -1,5 +1,5 @@
 class ApiUrl{
-  static const String baseUrl = "http:/baseurl.com/api/";
+  static const String baseUrl = "http:/baseurl.com/";
 
   /// ==== Auth Module ==== \\\\
   static const String loginUrl = "login";
